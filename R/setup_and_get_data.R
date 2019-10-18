@@ -3,7 +3,7 @@ library(stringr)
 library(data.table)
 library(googleCloudStorageR)
 
-gcs_auth(here('AUTH/mcw-play-217608-5357a3fa72ef.json'))
+gcs_auth(here('AUTH/mcw-play-217608-68fe7c152472.json'))
 
 gcs_global_bucket("play-automation")
 
